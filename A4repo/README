@@ -1,0 +1,11 @@
+This directory contains the implementation of sillyCommand.sh.   At the
+time of writing of this README file we know that it will take at least
+one argument.
+
+Now, the sillyCommand.sh command will tell you that it needs at least one argument.
+If you give "hello" as the first argument, sillyCommand.sh will print out "You typed HELLO"
+If you give "goodbye" as the first argumnet, sillyCommand.sh will print out "You types GOODBYE"
+Otherwise, sillyCommand.sh will simply echo back the first argument.
+
+We'll update this file with a detailed description as soon as we know
+what the command will do!
